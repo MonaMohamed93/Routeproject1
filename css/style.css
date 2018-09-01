@@ -1,0 +1,403 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+
+html,body
+{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.row
+{
+    margin: 5px !important;
+    
+}
+
+.navbar
+{
+  background-color: rgba(0,0,0,0.3);    
+}
+
+.navbar .navbar-nav a{
+    color:white; 
+    font-size: 13px;
+}
+
+.navbar img
+{
+    max-width: 70%;
+    padding-left:40px;
+}
+
+.firstsection
+{
+    background:url(../images/bg-parallax.jpg) no-repeat center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: table;
+}
+
+
+
+.welcome-text
+{
+    display: table-cell;
+    text-align: center;
+    position: absolute;
+    padding-top: 15%;
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-color: rgba(0,0,0,0.5);    
+    
+}
+
+.welcome-text .btn
+{
+    background-color: #f9461d !important;
+}
+
+
+
+.borderbottom
+{
+    border-bottom: 5px solid #f9461d;
+    width:50px;
+    margin-left: 220px;
+}
+
+.borderbottom2
+{
+     border-bottom: 5px solid #f9461d;
+    width:50px;
+    margin-left: 440px;
+    
+}
+
+.borderbottom3
+{
+     border-bottom: 5px solid #f9461d;
+    width:50px;
+    margin-left: 450px;
+    
+}
+
+.caption h1
+{
+    margin-top: 30px;
+}
+
+.caption2
+{
+    margin:50px 50px 50px 50px;
+}
+
+.caption3
+{
+    margin:50px 70px 50px 50px;
+}
+ 
+
+.carousel-indicators > li {
+  border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    
+}
+
+.sectionsection
+{
+    margin-top: 30px;
+    margin-bottom: 150px;
+}
+
+.thirdsection
+{
+    height: 100%;
+    width:100%;
+    background-image: url(../images/bg-fun-facts.jpg);
+    background-size: cover;
+    position: relative;
+    display: table;
+    
+    
+}
+
+.fun
+{
+    padding-top: 10%;
+    display: table-cell;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);  
+   
+    
+}
+
+.funfacts
+{
+    padding-top:25%;
+    padding-bottom:10%;
+  
+}
+
+
+
+.funfacts i
+{
+    font-size: 70px;
+    margin-bottom: 30px;
+    color: #f9461d;
+}
+
+.funfacts h1
+{
+    font-weight: 600!important;
+    color: white !important;
+}
+
+.funfacts h4
+{
+    color: white;
+}
+
+.whyus
+{
+    margin-top: 90px;
+}
+
+.speed
+{
+    padding-top: 10%;
+}
+
+.speed i
+{
+    font-size: 20px;
+    color: white;
+    border: solid 10px #f9461d ;
+    border-radius: 20%;
+    background-color: #f9461d;
+}
+
+.fifthsection
+{
+    display: table;
+    position: relative;
+    margin-top: 20%;
+    background-image: url(../images/bg-skills.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+     
+    
+}
+
+
+
+.skills
+{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    display: table-cell;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.our
+{
+    margin-top: 7%;
+}
+
+
+
+
+.progress1
+{
+    padding-top: 22%;
+    padding-bottom: 10%;
+    margin-left: 150px !important;
+}
+
+.progress1 h4
+{ 
+    margin-top:150px;
+    
+    color: white;
+}
+
+.services
+{
+    padding-top: 10%;
+}
+
+
+
+.iconservices 
+{
+    margin-bottom: 150px;
+    
+}
+
+
+.iconservices i
+{
+    font-size: 50px;
+    margin-top:70px;
+    color: #f9461d;
+    margin-bottom: 50px;
+    
+    
+}
+
+.sectionsection button
+{
+    background-color: #f9461d;
+    margin-top: -10%;
+}
+
+
+
+
+
+.borderbottom4
+{
+    border-bottom: 5px solid #f9461d;
+    width:50px;
+    margin-left: 150px;
+     
+}
+
+.verticalborder1
+{
+    border-right: 0.5px solid #f9461d;
+    height: 200px;
+    border-radius: 0.5%;
+    margin-top: -200px;
+}
+
+.seventhsection
+{
+    display: table;
+    position: relative;
+    background-image: url(../images/bg-quote.jpg) ;
+    height:100%;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.qu
+{
+    display: table-cell;
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    width:100%;
+    height: 100%;
+}
+
+.seventhsection p
+{
+    color:white;
+    font-size: 30px;
+    margin-top: 5%;
+    line-height: 40px;
+}
+
+.seventhsection i
+{
+    font-size: 70px;
+    color:#f9461d;
+    margin-top: 5%;
+}
+
+.seventhsection h4
+{
+    font-size: 40px;
+    color:#f9461d;
+    margin-top: 5%;
+}
+
+.gallery
+{
+    padding-top:10%;
+}
+
+.btns
+{
+    width:50%;
+    padding-top: 5%;
+    margin-left: 280px !important;
+    
+}
+
+.images
+{
+    margin-top: 50px;
+}
+
+.second
+{
+    margin-top: 30px;
+}
+
+.third
+{
+    margin-top: 30px;
+}
+
+.eightsection .btns button
+{
+    background-color: #f9491d;
+    margin: 5px 5px;
+}
+
+.ninthsection{
+    margin-top: 100px;
+    display: table;
+    position: relative;
+    background-image: url(../images/bg-keep-in-touch.jpg);
+    background-size: cover;
+    height: 100%;
+    width:100%;
+    overflow: hidden;
+}
+
+
+.ninthsection .keep
+{
+    
+    display: table-cell;
+    position: absolute;
+    background-color: rgba(0,0,0,0.6);
+    height: 100%;
+    width: 100%;
+    
+}
+
+.keep-text
+{
+    margin-top: 10%;
+}
+
+.social
+{
+    padding-top:25%;
+}
+
+.social i
+{
+    font-size: 70px;
+    color: white;
+}
+
+.social h4
+{
+    color:white;
+    margin-top: 20px;
+}
